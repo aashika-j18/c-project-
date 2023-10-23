@@ -1,0 +1,17 @@
+Institute to add:
+IIT-M,DS,2,95000
+
+
+
+adv student:no prefs
+808868 VRABL4
+
+mains student:some prefs
+927604 abc123
+
+alloted: fee waiver
+997255 wlcm
+
+no allotment:
+199891 
+
